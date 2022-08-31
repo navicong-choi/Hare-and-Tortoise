@@ -1,5 +1,7 @@
 # What I Learn Today
 
+from 2022-08-31~
+
 ## Deep Learning
 
 
