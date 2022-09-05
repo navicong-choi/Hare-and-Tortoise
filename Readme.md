@@ -17,7 +17,7 @@ from 2022-08-31~
 
 ## Data Engineering
   1. 기본 CS 지식
-      - 혼자 공부하는 컴퓨터구조 + 
+      - 혼자 공부하는 컴퓨터구조 + 운영체제
   2. 데이터 엔지니어링 공부
       - [참고 사이트](https://kadensungbincho.tistory.com/14)
   
