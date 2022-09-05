@@ -15,12 +15,18 @@ from 2022-08-31~
   ### 2. natural language processing
   
 
+
 ## Data Engineering
-  1. 기본 CS 지식
+  
+  
+  ### 1. 기본 CS 지식
       - 혼자 공부하는 컴퓨터구조 + 운영체제
-  2. 데이터 엔지니어링 공부
+  
+  
+  ### 2. 데이터 엔지니어링 공부
       - [참고 사이트](https://kadensungbincho.tistory.com/14)
   
+
 
 ## Algorithm
   1. 프로그래머스 문제풀이
