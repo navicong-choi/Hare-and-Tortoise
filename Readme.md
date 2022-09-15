@@ -28,6 +28,6 @@ from 2022-08-31~
   
 
 
-## Algorithm
-  1. 프로그래머스 문제풀이
-  2. 알고리즘 정리
+## MLOps
+  
+  ### 1. [cs329s](https://stanford-cs329s.github.io)
