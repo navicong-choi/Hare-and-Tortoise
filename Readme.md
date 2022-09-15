@@ -30,4 +30,4 @@ from 2022-08-31~
 
 ## MLOps
   
-  ### 1. [cs329s](https://stanford-cs329s.github.io)
+  ### 1. [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
