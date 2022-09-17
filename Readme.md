@@ -14,6 +14,10 @@ from 2022-08-31~
      
   ### 2. natural language processing
   
+  ### 3. Graph Neural Network
+  
+  - [cs224w]()
+  
 
 
 ## Data Engineering
