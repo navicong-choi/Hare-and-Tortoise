@@ -14,6 +14,10 @@ from 2022-08-31~
      
   ### 2. natural language processing
   
+  ### 3. Graph Neural Network
+  
+  - [cs224w]()
+  
 
 
 ## Data Engineering
@@ -28,6 +32,6 @@ from 2022-08-31~
   
 
 
-## Algorithm
-  1. 프로그래머스 문제풀이
-  2. 알고리즘 정리
+## MLOps
+  
+  ### 1. [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
