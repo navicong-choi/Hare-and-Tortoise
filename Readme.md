@@ -7,8 +7,8 @@ from 2022-08-31~
 
   ### 1. computer vision
   
-   - [서울대 데이터사이언스 대학원 컴퓨터 비전 강의](https://www.youtube.com/playlist?list=PL0E_1UqNACXD5trR4II4ltJ0dBBt0ztTV)
-   - 핸즈온머신러닝
+   - [서울대 데이터사이언스 대학원 시각적 이해를 위한 머신러닝](https://www.youtube.com/playlist?list=PL0E_1UqNACXD5trR4II4ltJ0dBBt0ztTV)
+   - 딥러닝 파이토치 교과서
    - 논문 스터디
      
      
