@@ -12,7 +12,7 @@ from 2022-08-31~
    - 논문 스터디
      
      
-  ### 2. natural language processing
+  ### 2. Natural language processing
   
   ### 3. Graph Neural Network
   
@@ -30,6 +30,10 @@ from 2022-08-31~
   ### 2. 데이터 엔지니어링 공부
    - [참고 사이트](https://kadensungbincho.tistory.com/14)
   
+## 대회 공부
+  * 대회 준비하며 공부한 것들 정리
+  
+  ### 1. 2022 LG U+ AI GROUND
 
 
 ## MLOps
